@@ -5,3 +5,8 @@ window.onload = function(){
 function eventos(){
 	alert("¡HOLA MUNDO!");
 }
+
+function loadBody(){
+	document.getElementsByTagName("body").addEventListener("onload", alert("página cargada"));
+}
+loadBody();
