@@ -1,4 +1,4 @@
-# Ejercicio Lección 19 - Eventos en JS
+# Ejercicio Lección 20 - Eventos en JS
 ### ejercicios-eventos 
  
 1. Botón con evento click que muestra un alert 
